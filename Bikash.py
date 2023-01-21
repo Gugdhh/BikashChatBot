@@ -7,8 +7,8 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "none") 
-API_HASH = os.environ.get("API_HASH", "none") 
+API_ID = os.environ.get("API_ID", "10169080") 
+API_HASH = os.environ.get("API_HASH", "f402d817cf0e93bf826477b2074367c8") 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5955905234:AAHCDzOTHfi235ViELPneYmXhf52W05wKjQ) 
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb://ud7kcz6totsvepy86bb2:d4gmTfoBbpzDmNLzItwG@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/b0ojwj6pcvvj30u?replicaSet=rs0")
 BOT_IMAGE = os.environ.get("BOT_IMAGE", "none")
